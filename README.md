@@ -90,7 +90,7 @@ Blog and content-focused website.
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Fusion
+### 📚 Fusion
 Modern multilingual web experience.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://fusion-liart.vercel.app/en)
@@ -99,7 +99,7 @@ Modern multilingual web experience.
 </td>
 <td width="50%" valign="top">
 
-### 🛍️ T2 Accessories
+### 🚗 T2 Accessories
 Accessories storefront experience.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://t2-accessories.vercel.app)
