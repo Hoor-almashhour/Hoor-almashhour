@@ -79,7 +79,7 @@ Responsive restaurant website.
 </td>
 <td width="50%" valign="top">
 
-### ✍️ Raha Hamou Blog
+### ✍️ Rama Hamou Blog
 Blog and content-focused website.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ramahamou-blogspot.vercel.app)
