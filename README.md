@@ -70,7 +70,7 @@ I specialize in frontend development with **React 19, Next.js 16, and TypeScript
 <tr>
 <td width="50%" valign="top">
 
-### 🍕 Angelo della Pizza
+### 🍕Angelo della Pizza
 Responsive restaurant website.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://angolodella-pizza.vercel.app)
@@ -79,7 +79,7 @@ Responsive restaurant website.
 </td>
 <td width="50%" valign="top">
 
-### ✍️ Rama Hamou Blog
+### ✍️Rama Hamou Blog
 Blog and content-focused website.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ramahamou-blogspot.vercel.app)
@@ -90,7 +90,7 @@ Blog and content-focused website.
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Fusion
+### 📚Fusion
 Modern multilingual web experience.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://fusion-liart.vercel.app/en)
@@ -99,7 +99,7 @@ Modern multilingual web experience.
 </td>
 <td width="50%" valign="top">
 
-### 🚗 T2 Accessories
+### 🚗T2 Accessories
 Accessories storefront experience.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://t2-accessories.vercel.app)
