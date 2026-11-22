@@ -1,131 +1,188 @@
-Hi, I’m Hoor Almashhour 👋
+<!-- ===================== PROFILE HEADER ===================== -->
+<div align="center">
 
-Full-Stack Web Developer | React.js | Next.js | Node.js | TypeScript
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:7C3AED&height=210&section=header&text=Hoor%20Almashhour&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=18" alt="Hoor Almashhour profile header"/>
 
-I’m a Full-Stack Web Developer and Information Technology Engineering graduate, passionate about building modern, scalable, and user-friendly web applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=React+19+%7C+Next.js+16+%7C+TypeScript;Frontend-focused+Full-Stack+Developer;Building+ideas+into+digital+experiences" alt="Developer introduction"/>
 
-I specialize in frontend development with React.js, Next.js, TypeScript, and modern UI technologies. I’m also expanding my backend development skills, working with Node.js, Express.js, PostgreSQL, Prisma, and Supabase to build full-stack applications and integrate APIs with frontend interfaces.
+<a href="https://hooralmashhour-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/hoor-almashhour"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:houralmashhour@gmail.com"><img src="https://img.shields.io/badge/Email-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Hoor-almashhour"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-I enjoy turning ideas into real-world digital products, exploring modern technologies, and continuously improving my development skills.
+<img src="https://komarev.com/ghpvc/?username=Hoor-almashhour&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
 
-* 💻 Building modern and responsive web applications.
-* ⚛️ Developing interfaces with React 19, Next.js 16, and TypeScript.
-* 🔧 Expanding my backend expertise with Node.js, Express.js, and PostgreSQL.
-* 🗄️ Working with Supabase, Prisma, and database integration.
-* 🔌 Building API integrations and exploring real-time communication with WebSockets.
-* 🤖 Exploring AI-powered development tools and workflows.
-* 🚀 Passionate about learning, building, and creating meaningful digital experiences.
+</div>
 
-⸻
+---
 
-🛠️ Tech Stack
+## 👋 About Me
 
-Frontend Development
+I'm a **Full-Stack Web Developer** and Information Technology Engineering graduate, passionate about building modern, scalable, and user-friendly web applications.
 
-HTML5 • CSS3 • JavaScript • TypeScript • React 19 • Next.js 16
+I specialize in frontend development with **React 19, Next.js 16, and TypeScript**. I also work with **Node.js, PostgreSQL, Prisma, and Supabase**, while expanding my backend skills with Express.js and exploring real-time communication using WebSockets.
 
-UI & Styling
+- 💻 Building modern and responsive web applications.
+- ⚛️ Developing interfaces with React 19, Next.js 16, and TypeScript.
+- 🔧 Growing my backend experience with Node.js, Express.js, and PostgreSQL.
+- 🗄️ Working with Supabase, Prisma, and database integration.
+- 🔌 Integrating REST APIs and exploring WebSockets.
+- 🤖 Exploring AI-powered development tools and workflows.
+- 🌱 Always learning, building, and improving.
 
-Tailwind CSS • Bootstrap • Responsive Design
+---
 
-State Management & Validation
+## 🛠️ Tech Stack
 
-Redux Toolkit • Zod • React Hooks
+<div align="center">
 
-Backend Development
+**Frontend Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="HTML CSS JavaScript TypeScript React Next.js"/>
 
-Node.js • Express.js • Next.js Backend
+**UI, Styling & State Management**
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,redux" alt="Tailwind Bootstrap Redux"/>
+<br/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod"/>
+<img src="https://img.shields.io/badge/React_Hooks-149ECA?style=flat-square&logo=react&logoColor=white" alt="React Hooks"/>
 
-Databases & Backend Services
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase" alt="Node.js Express PostgreSQL Prisma Supabase"/>
 
-PostgreSQL • Prisma • Supabase
+**Tools & Additional Technologies**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,php,wordpress" alt="Git GitHub Figma PHP WordPress"/>
+<br/>
+<img src="https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Axios-671DDF?style=flat-square&logo=axios&logoColor=white" alt="Axios"/>
+<img src="https://img.shields.io/badge/WebSockets-6D28D9?style=flat-square" alt="WebSockets"/>
+<img src="https://img.shields.io/badge/AI_Development_Tools-7C3AED?style=flat-square" alt="AI Development Tools"/>
 
-APIs & Real-Time Communication
+</div>
 
-REST APIs • Axios • API Integration • WebSockets
+---
 
-Tools & Development
+## 🚀 Featured Projects
 
-Git • GitHub • Figma • AI Development Tools
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Additional Technologies
+### 🍕 Angelo della Pizza
+Responsive restaurant website.
 
-PHP • WordPress
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://angolodella-pizza.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hoor-almashhour/angolodella-pizza)
 
-⸻
+</td>
+<td width="50%" valign="top">
 
-💼 Professional Experience
+### ✍️ Raha Hamou Blog
+Blog and content-focused website.
 
-Freelance Web Developer
-February 2024 – Present
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ramahamou-blogspot.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hoor-almashhour/ramahamou-blogspot)
 
-* Designed and developed responsive websites and web applications.
-* Built frontend applications using React.js and Next.js.
-* Developed and maintained WordPress and custom web projects.
-* Integrated APIs and connected frontend applications with backend services.
-* Worked with Supabase for backend services and API integration.
-* Focused on UI/UX, performance optimization, and SEO.
-* Managed projects from planning and development to deployment.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-⸻
+### 🌐 Fusion
+Modern multilingual web experience.
 
-🎓 Training & Education
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://fusion-liart.vercel.app/en)
+[![Source Code](https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hoor-almashhour/Fusion)
 
-Front-End Design & Development Training
-Vica Web Solutions | August 2024 – January 2025
+</td>
+<td width="50%" valign="top">
 
-* Completed 75 hours of practical development training.
-* Built responsive React applications.
-* Worked with APIs and Figma designs.
-* Developed practical projects including Blogs, Dashboard, and Manage Posts.
+### 🛍️ T2 Accessories
+Accessories storefront experience.
 
-Bachelor’s Degree in Information Technology Engineering
-Aljazeera Private University | Graduated June 2022
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://t2-accessories.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hoor-almashhour/T2-Accessories)
 
-⸻
+</td>
+</tr>
+</table>
 
-🚀 Featured Projects
+---
 
-Here are some of my selected projects:
+## 📊 GitHub Statistics
 
-🍕 Angelo della Pizza
+<div align="center">
 
-https://angolodella-pizza.vercel.app
+<a href="https://github.com/Hoor-almashhour">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hoor-almashhour&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6&rank_icon=github" alt="GitHub profile statistics"/>
+</a>
+<a href="https://github.com/Hoor-almashhour">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoor-almashhour&layout=compact&langs_count=8&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=E5E7EB" alt="Most used programming languages"/>
+</a>
 
-✍️ Raha Hamou Blog
+<a href="https://github.com/Hoor-almashhour">
+<img width="70%" src="https://streak-stats.demolab.com?user=Hoor-almashhour&theme=tokyonight&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub contribution streak"/>
+</a>
 
-https://www.ramahamo.com
+</div>
 
-📚Fusion
+<sub>Language statistics are calculated from code in public repositories and do not necessarily represent proficiency. Statistics are provided by external services and may occasionally be unavailable.</sub>
 
-https://www.fusion-turk.com/ar
+---
 
-🚗T2 Car Accessories
+## 💼 Professional Experience
 
-https://t2-accessories.vercel.app
+**Freelance Web Developer** · February 2024 – Present
 
-⸻
+- Designed and developed responsive websites and web applications.
+- Built frontend applications using React.js and Next.js.
+- Developed WordPress and custom web projects.
+- Integrated APIs and connected frontend applications with backend services.
+- Worked with Supabase for backend services and API integration.
+- Focused on UI/UX, performance optimization, SEO, and deployment.
 
-🌱 Currently Exploring
+---
 
-* Advanced Backend Development with Node.js & Express.
-* PostgreSQL database design and Prisma ORM.
-* Full-Stack development with Next.js 16.
-* TypeScript and scalable application architecture.
-* Real-time applications using WebSockets.
-* AI-powered development workflows.
+## 🎓 Education & Training
 
-⸻
+**Front-End Design & Development Training**  
+Vica Web Solutions · August 2024 – January 2025
 
-🤝 Let’s Connect
+- Completed 75 hours of practical development training.
+- Built responsive React applications and worked with APIs and Figma designs.
+- Developed practical projects including Blogs, Dashboard, and Manage Posts.
 
-* Portfolio: https://hooralmashhour-portfolio.vercel.app
-* LinkedIn: https://www.linkedin.com/in/hoor-almashhour
-* GitHub: https://github.com/Hoor-almashhour
-* Email: houralmashhour@gmail.com
+**Bachelor's Degree in Information Technology Engineering**  
+Aljazeera Private University · Graduated June 2022
 
-⸻
+---
 
-⭐ Thanks for visiting my profile!
+## 🌱 Currently Exploring
 
-Building ideas into digital experiences, one project at a time.
+- Advanced backend development with Node.js & Express.js.
+- PostgreSQL database design and Prisma ORM.
+- Full-stack development with Next.js 16.
+- TypeScript and scalable application architecture.
+- Real-time applications using WebSockets.
+- AI-powered development workflows.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://hooralmashhour-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/hoor-almashhour"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:houralmashhour@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!**  
+*Building ideas into digital experiences, one project at a time.* 💜
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0B1020&height=110&section=footer" alt="Profile footer"/>
+
+</div>
